@@ -1,2 +1,3 @@
 # Advanced-Brain-Tumor-Detection-Segmentation-XAI
 Brain tumor detection and segmentation using deep learning
+in this project i used many methodlogies including machine learning,deep learning,image processing techniques such as sagmentation,edge detection,etc...
