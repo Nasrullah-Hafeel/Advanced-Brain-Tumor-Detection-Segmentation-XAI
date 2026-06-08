@@ -1,0 +1,4 @@
+Model,Base Architecture,Training Data,Test Data,Accuracy
+Random Forest,Hand-crafted Features,"4,480 samples (features)","1,120 samples",65.45%
+XGBoost,Hand-crafted Features,"4,480 samples (features)","1,120 samples",64.82%
+CNN (Improved),ResNet50 Transfer Learning,"5,600 raw images","1,600 samples",90.56%

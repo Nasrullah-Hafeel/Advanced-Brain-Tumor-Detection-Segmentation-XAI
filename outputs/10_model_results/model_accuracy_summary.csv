@@ -1,0 +1,4 @@
+Model,Training Images,Test Images,Accuracy
+Random Forest,"4,480 (feature-based)","1,120(20% split)",65.45%
+XGBoost,"4,480 (feature-based)","1,120 (20% split)",64.82%
+CNN(Deep Learning),"5,600 (raw images)","1,600 (separate folder)",25.00%
